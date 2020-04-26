@@ -1,1 +1,2 @@
 alias doflake='docker-compose run app sh -c "flake8"'
+alias start='docker-compose up'
